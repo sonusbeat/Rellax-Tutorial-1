@@ -19,3 +19,6 @@ once you are inside rellax folder
 ```
 code .
 ```
+
+## Check Live here
+https://sonusbeat.github.io/Rellax-Tutorial-1/
